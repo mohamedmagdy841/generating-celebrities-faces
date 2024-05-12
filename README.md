@@ -1,8 +1,6 @@
 # Generating Celebrities Faces Using DCGAN
 
-## This project aims to generate realistic facial images of celebrities.
-
-The project is an exploration into the realm of artificial intelligence and computer vision. Leveraging the power of Deep Convolutional Generative Adversarial Networks (DCGAN), it seeks to learn the intricate patterns and features present in celebrity faces from a vast dataset.
+This project aims to generate realistic facial images of celebrities. Leveraging the power of Deep Convolutional Generative Adversarial Networks (DCGAN), it seeks to learn the intricate patterns and features present in celebrity faces from a vast dataset.
 
 ## The idea behind Generative Adversarial Networks
 
